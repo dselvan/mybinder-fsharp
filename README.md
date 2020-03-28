@@ -14,4 +14,4 @@ for building interactive fsharp notebooks using mybinder
 8. Hit launch and use like any other binder project
 
 ## Examples 
-Check out the `learn-fsharp` branch that has a single notebook with a basic example from Microsoft in it. 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dselvan/mybinder-fsharp/learn-fsharp) Check out the `learn-fsharp` branch that has a single notebook with a basic example from Microsoft in it. 
